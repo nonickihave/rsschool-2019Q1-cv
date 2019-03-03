@@ -20,9 +20,7 @@ Below are some examples:
     * HTML/CSS
     * Scrum, Git, Linux Bash scripting, php, Eclipse, JetBrains WebStorm, Jira, RTC, MoDX REVO, SQL, Hibernate, JPA, LIferay
 5. Some code examples in context of JS can be found [there] (https://github.com/nonickihave/2019_js_course_love_triangle/blob/master/src/index.js)
-  <br />
   If you want some code examples from my prev projects, let's discuss that in an interview
-
 6. **Experience**
     * _Java - 3 years (Traffic Light control system, Railway Dispatcher, Liferay Portal Project)
     * _JS - 1,5 years (chrome extensions imitating human behavior) (not available online)
