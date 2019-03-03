@@ -22,10 +22,10 @@ Below are some examples:
 5. Some code examples in context of JS can be found [there] (https://github.com/nonickihave/2019_js_course_love_triangle/blob/master/src/index.js)
   If you want some code examples from my prev projects, let's discuss that in an interview
 6. **Experience**
-    * _Java - 3 years (Traffic Light control system, Railway Dispatcher, Liferay Portal Project)
-    * _JS - 1,5 years (chrome extensions imitating human behavior) (not available online)
-    * _Php - 1 year (arabic news portal) https://www.eremnews.com/
-    * Projects: *Notice*: actually I've participated in various projects not related to development itself. As an example, ETL projects.
+    * _Java_ - 3 years (Traffic Light control system, Railway Dispatcher, Liferay Portal Project)
+    * _JS_ - 1,5 years (chrome extensions imitating human behavior) (not available online)
+    * _Php_ - 1 year (arabic news portal) https://www.eremnews.com/
+    * _Projects_: *Notice*: actually I've participated in various projects not related to development itself. As an example, ETL projects.
 7. **Education**
     *  BSUIR, Faculty of Informational Technologies and Management;
     *  Requirements management course
